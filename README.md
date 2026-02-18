@@ -208,6 +208,7 @@ This demonstrates the effectiveness of:
 * NumPy, Pandas
 * Matplotlib
 * Scikit-learn
+* Gradio
 
 ---
 
