@@ -2,15 +2,6 @@
 To compare traditional statistical models and machine learning models with a deep learning hierarchical attention-based model for electricity demand forecasting and evaluate which performs best.
 
 
-Perfect ✅
-I’ll build a **complete professional GitHub README report** for your project.
-
-You can directly copy-paste this into your `README.md` file.
-
-I will structure it like a real ML research + engineering project.
-
-You just need to replace the metric values with your actual results.
-
 ---
 
 # ⚡ Energy Consumption Forecasting
