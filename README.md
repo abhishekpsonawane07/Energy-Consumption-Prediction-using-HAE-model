@@ -121,12 +121,6 @@ Lower values indicate better performance.
 
 ---
 
-Perfect 👌 I’ll now update your **GitHub report performance section** properly formatted and professional, including your actual results.
-
-You can directly paste this inside your README under **Model Performance**.
-
----
-
 # 📊 Model Performance Evaluation
 
 The models were evaluated using:
