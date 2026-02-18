@@ -253,5 +253,3 @@ This project demonstrates:
 * Practical energy forecasting application
 
 
-
-Tell me what you want next 👌
