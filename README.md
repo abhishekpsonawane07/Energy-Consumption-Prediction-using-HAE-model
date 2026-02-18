@@ -134,11 +134,13 @@ Lower values indicate better forecasting performance.
 
 ## 📈 Performance Comparison
 
-| Model                     | RMSE (MW)  | MAPE (%)  |
-| SARIMA MODEL              | ---------- | 15.44%    |
-| XGBoost                   | 3786.88    | 11.29%    |
-| XGBoost (GridSearch + CV) | 2744.98    | 7.70%     |
-| HAE-LSTM (Proposed Model) | 489.45     | 1.36%     |
+| Model                     | RMSE (MW) | MAPE (%) |
+|----------------------------|-----------|----------|
+| SARIMA Model              | XXXX.XX   | 15.44%   |
+| XGBoost                   | 3786.88   | 11.29%   |
+| XGBoost (GridSearch + CV) | 2744.98   | 7.70%    |
+| HAE-LSTM (Proposed Model) | 489.45    | 1.36%    |
+
 
 ---
 
